@@ -63,7 +63,7 @@ Technologies and Tools Used:
 
     2. Dashboard:
       • Shows real-time soil moisture, temperature, and humidity data.
-      • Displays weather conditions (from OpenWeatherMap API).
+      
       • Provides motor ON/OFF controls (manual and automatic).
   
     3. Analytics View:
