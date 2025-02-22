@@ -40,7 +40,7 @@ Technologies and Tools Used:
  #Prerequisities
    1. Install Python
    2. Install Git
-   3. Clone the repository: bash git clone :git clone https://github.com/username/repository-name.git
+   3. Clone the repository: bash git clone :git clone https:https://github.com/PYEXPO25/T038_CodeWizards.git
 #Installation
    1.Navigate to the project directory:bash cd repository-name
    2.Create a virtual environment : bash cd repository-name
@@ -76,7 +76,7 @@ Technologies and Tools Used:
   # PowerPoint Presentation
     https://1drv.ms/p/c/deb2e6f0d50e203d/EbuaiismgQNAi8Kh8QtpzfMBpFxk_fHnDkEwfaIEaxtZMQ?e=JMmcWT&nav=eyJzSWQiOjI1Nn0
   # Project Video
-
+    
   #Youtube Link
   https://youtu.be/J2q4s4HUPYI?si=VdHCfVANp7GGToJo
   
