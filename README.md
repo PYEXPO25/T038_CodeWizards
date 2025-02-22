@@ -17,14 +17,15 @@ Proposed Solution:
 #Team Members
 Team ID - T038
 Team members along with their roles.
-• Member 1-Team Leader
-• Member 2-
-• Member 3-
-• Member 4-
-• Member 5-
-• Member 6-
+• Member 1-Backend(TL)
+• Member 2-Frontend 
+• Member 3-Backend
+• Member 4-Frontend
+• Member 5-Hardware
+• Member 6-Hardware
 
 Team photo:
+![team photo](https://github.com/user-attachments/assets/270e3061-3627-4480-980c-89dc00223a65)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Technical Stack
