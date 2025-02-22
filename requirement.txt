@@ -1,0 +1,6 @@
+Flask
+firebase-admin
+requests
+paho-mqtt
+twilio
+gunicorn  # If deploying on a cloud platform
