@@ -63,7 +63,6 @@ Technologies and Tools Used:
 
     2. Dashboard:
       • Shows real-time soil moisture, temperature, and humidity data.
-      
       • Provides motor ON/OFF controls (manual and automatic).
   
     3. Analytics View:
@@ -77,9 +76,9 @@ Technologies and Tools Used:
   # PowerPoint Presentation
     https://1drv.ms/p/c/deb2e6f0d50e203d/EbuaiismgQNAi8Kh8QtpzfMBpFxk_fHnDkEwfaIEaxtZMQ?e=JMmcWT&nav=eyJzSWQiOjI1Nn0
   # Project Video
-    
+    https://youtube.com/shorts/0pbVLo7o630?si=GN6dNY6xGl3NtSQW
   #Youtube Link
-  https://youtu.be/J2q4s4HUPYI?si=VdHCfVANp7GGToJo
+    https://youtu.be/J2q4s4HUPYI?si=VdHCfVANp7GGToJo
   
   
                                              
